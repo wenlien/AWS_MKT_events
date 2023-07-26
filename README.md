@@ -6,7 +6,7 @@
 
 3. Select EC2 service.
 
-4. Click "Launch instance" botton.
+4. Click "Launch instance" button.
 
 5. Setup EC2 instance.
    
