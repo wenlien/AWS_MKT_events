@@ -1,38 +1,38 @@
 # Launch free tier EC2 for AWS 2023 MKT event (Due date: 2023/8/2 6:00pm)
 
-1. Choose a region
+1. Select a region.
 
-2. Type "EC2" in search bar
+2. Type "EC2" in search bar.
 
-3. Select EC2 service
+3. Select EC2 service.
 
-4. Click "Launch instance" botton
+4. Click "Launch instance" botton.
 
-5. Setup EC2 instance
+5. Setup EC2 instance.
    
-   1. Input Name
+   1. Input Name.
       
       E.g. AWS-Training
    
-   4. Select Amazon Linux
+   4. Select Amazon Linux.
    
-   5. Choose Amazon Linux 2023 AMI, make sure you see the label of "___Free tier eligible___"
+   5. Choose Amazon Linux 2023 AMI, make sure you see the label of "___Free tier eligible___".
    
-   6. Choose t2.micro, make sure you see the label of "___Free tier eligible___"
+   6. Choose t2.micro, make sure you see the label of "___Free tier eligible___".
    
-   7. Process without a key pair
+   7. Process without a key pair.
    
-   8. Create security group
+   8. Create security group.
       
-      1. uncheck "Allow SSH traffic from"
+      1. uncheck "Allow SSH traffic from".
       
-      2. check "Allow HTTP traffic from the internet"
+      2. check "Allow HTTP traffic from the internet".
    
-   9. Keep storage as 8GB w/ gp3
+   9. Keep storage as 8GB w/ gp3.
    
-   10. Expand "Advanced details" and scroll down to "User data"
+   10. Expand "Advanced details" and scroll down to "User data".
       
-      1. Copy and paste the following script for user data
+      1. Copy and paste the following script for user data.
          
          ```shell
          #!/bin/bash
@@ -43,9 +43,9 @@
          echo "Welcome to AWS Training!!" > /var/www/html/index.html
          ```
    
-   11. Review Summary
+   11. Review Summary.
    
-   12. Click "Launch instace" botton
+   12. Click "Launch instace" botton.
    
    13. Click the instance link from the message as below:
        
