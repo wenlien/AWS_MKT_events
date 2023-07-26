@@ -1,4 +1,4 @@
-# Launch free tier EC2 for MKT event
+# Launch free tier EC2 for AWS 2023 MKT event (Due date: 2023/8/2 6:00pm)
 
 1. Choose a region
 
@@ -67,4 +67,5 @@
        
        E.g. launch-wizard-1
    
-6. email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
+6. email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com) before 2023/8/2 6:00pm
+
