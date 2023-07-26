@@ -67,4 +67,4 @@
        
        E.g. launch-wizard-1
    
-   21. email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
+6. email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
