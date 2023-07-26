@@ -22,7 +22,7 @@
    
    5. Process without a key pair.
    
-   6. Use default VPC/subnet, and also enable "Auto-assign public IP".
+   6. Use default VPC, subnet w/ auto-assign public IP enabled, and also enable "Auto-assign public IP".
       
    7. Create security group.
       
