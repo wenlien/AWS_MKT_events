@@ -10,7 +10,7 @@
 
 5. Setup EC2 instance.
    
-   1. Input Name.
+   1. Input instance name.
       
       E.g. AWS-Training
    
