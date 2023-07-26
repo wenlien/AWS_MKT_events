@@ -14,9 +14,9 @@
    
    2. Select Amazon Linux
    
-   3. Choose Amazon Linux 2023 AMI, make sure you see the label <Free tier eligible>
+   3. Choose Amazon Linux 2023 AMI, make sure you see the label of "___Free tier eligible___"
    
-   4. Choose t2.micro, make sure you see the label <Free tier eligible>
+   4. Choose t2.micro, make sure you see the label of "___Free tier eligible___"
    
    5. Process without a key pair
    
@@ -46,19 +46,21 @@
    10. Click "Launch instace" botton
    
    11. Click the instance link from the message as below:
+       
        E.g. Successfully initiated launch of instance ([i-0fece61c41e7e51b5](https://ap-northeast-2.console.aws.amazon.com/ec2/home?region=ap-northeast-2#Instances:instanceId=i-0fece61c41e7e51b5))
    
-   12. Copy "Public IPv4 address" of the instance and paste to the browser
+   13. Copy "Public IPv4 address" of the instance and paste to the browser
    
-   13. Verify if you could see the wording from httpd server.
+   14. Verify if you could see the wording from httpd server.
    
-   14. Screenshot the EC2 console w/ your id and public ip.
+   15. Screenshot the EC2 console w/ your id and public ip.
    
-   15. Screenshot the web page w/ "Welcom to AWS Training!!".
+   16. Screenshot the web page w/ "Welcom to AWS Training!!".
    
-   16. Terminate the EC2 instance.
+   17. Terminate the EC2 instance.
    
-   17. Delete the security group you created.
+   18. Delete the security group you created.
+       
        E.g. launch-wizard-1
    
-   18. email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
+   19. email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
