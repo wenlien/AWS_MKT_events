@@ -90,6 +90,6 @@
        E.g. launch-wizard-1
    <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/20ee5f27-691d-4136-99f2-b301af7be287">
 
-   
+
 6. Email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com).
 
