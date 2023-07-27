@@ -35,11 +35,11 @@
       1. uncheck "Allow SSH traffic from".
       
       2. check "Allow HTTP traffic from the internet".
-   <img width="703" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/e8319480-fc87-4f8a-af4a-11fa9527c6ce">
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/e8319480-fc87-4f8a-af4a-11fa9527c6ce">
 
    
    7. Keep storage as 8GB w/ gp3.
-   <img width="702" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/a8c80fdf-d184-479e-a3b9-e22f636db6ab">
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/a8c80fdf-d184-479e-a3b9-e22f636db6ab">
 
    
    8. Expand "Advanced details" and scroll down to "User data".
@@ -54,18 +54,26 @@
          systemctl enable httpd.service
          echo "Welcome to AWS Training!!" > /var/www/html/index.html
          ```
+  <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/788db297-cb41-487a-b7d4-f80c32af8298">
+
    
    9. Review Summary.
+   <img width="339" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/c9f91fa9-d8fd-4bd5-8452-fe1303818444">
+
    
    10. Click "Launch instace" botton.
    
    11. Click the instance link from the message as below:
        
-       E.g. Successfully initiated launch of instance ([i-0fece61c41e7e51b5](https://ap-northeast-2.console.aws.amazon.com/ec2/home?region=ap-northeast-2#Instances:instanceId=i-0fece61c41e7e51b5))
+       E.g. Successfully initiated launch of instance (i-0c0e040fded860c1b)
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/c47e8bfd-6a86-491e-85a0-afe3706220d6">
+
    
    12. Copy "Public IPv4 address" of the instance and paste to the browser.
 
        Make sure you connect the web server w/ HTTP (___NOT HTTPS___) protocol. (E.g. [http://a.b.c.d](http://a.b.c.d))
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/21bfdc2d-642b-46d5-beca-af79c02ed6fa">
+
    
    13. Verify if you could see the wording from httpd server.
    
@@ -74,10 +82,14 @@
    15. Screenshot the web page w/ "Welcom to AWS Training!!".
    
    16. Terminate the EC2 instance.
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/bde64ddf-da37-40f6-89af-8bfb9e7b515c">
+
    
    17. Delete the security group you created.
        
        E.g. launch-wizard-1
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/20ee5f27-691d-4136-99f2-b301af7be287">
+
    
 6. Email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com).
 
