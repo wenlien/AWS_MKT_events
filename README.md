@@ -54,7 +54,7 @@
          systemctl enable httpd.service
          echo "Welcome to AWS Training!!" > /var/www/html/index.html
          ```
-  <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/788db297-cb41-487a-b7d4-f80c32af8298">
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/788db297-cb41-487a-b7d4-f80c32af8298">
 
    
    9. Review Summary.
