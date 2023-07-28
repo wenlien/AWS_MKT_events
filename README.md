@@ -78,8 +78,12 @@
    13. Verify if you could see the wording from httpd server.
    
    14. Screenshot the EC2 console w/ your id and public ip.
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/ccaecfca-5bb8-4258-9cd3-46823b0dc510">
+
    
    15. Screenshot the web page w/ "Welcom to AWS Training!!".
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/4f25681e-46ef-48d5-9c0f-66d2c1b24874">
+
    
    16. Terminate the EC2 instance.
    <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/bde64ddf-da37-40f6-89af-8bfb9e7b515c">
