@@ -3,6 +3,7 @@
 1. Select a region.
 
 2. Type "EC2" in search bar.
+   <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/7b3e4de4-8e10-4dcf-97be-779851e52e4a">
 
 3. Select EC2 service.
 
@@ -95,5 +96,5 @@
    <img width="803" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/20ee5f27-691d-4136-99f2-b301af7be287">
 
 
-6. Email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
+7. Email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
 
