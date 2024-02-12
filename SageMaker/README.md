@@ -1,32 +1,40 @@
-# Launch free tier EC2 for AWS 2023 MKT event
+# Launch free tier SageMaker for AWS 2023 MKT event
 
 1. Select a region.
 
-2. Type "EC2" in search bar.
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/7b3e4de4-8e10-4dcf-97be-779851e52e4a">
+2. Type "SageMaker" in search bar.
+   <img width="940" alt="Screenshot 2024-02-13 at 1 10 33 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/db66891a-e652-4f64-bccc-7cc219781de4">
 
-3. Select EC2 service.
+3. Select SageMaker service.
 
-4. Click "Launch instance" button.
+4. Expense "Notebook" in left side bar.
 
-5. Setup EC2 instance.
+5. Click "Notebook Instances" link.
+
+6. Click "Create notebook instance" button.
+   <img width="992" alt="Screenshot 2024-02-13 at 1 16 53 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/6ae4062f-0746-4387-82a2-31f02cd69bfe">
+
+7. Setup SageMaker notebook instance.
    
    1. Input instance name.
-      
+
       E.g. AWS-Training
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/33287738-c40e-4ae9-bd7c-f26f915aff1c">
-
+   <img width="803" alt="Screenshot 2024-02-13 at 1 21 46 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/2d8ce196-4c52-4ba6-a50e-aac0d4e2d1ac">
    
-   2. Select Amazon Linux and choose Amazon Linux 2023 AMI, make sure you see the label of "___Free tier eligible___".
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/8005d475-c677-4639-8356-fc5eaf246bf2">
+   2. In permissions and encryption block, expend the "IAM role" and select "create a new role".
+   <img width="803" alt="Screenshot 2024-02-13 at 1 27 46 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/ad6dcfe1-8d0f-442b-8ddc-9501b4c62286">
 
-   
-   3. Choose t2.micro, make sure you see the label of "___Free tier eligible___".
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/ca5bb0cc-b658-4f64-9992-0216d3260fbf">
+   3. Click "Create Role".
+   <img width="824" alt="Screenshot 2024-02-13 at 1 31 08 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/60ba508b-df72-45e7-bacb-0910c9cec7c1">
 
-   
-   4. Process without a key pair.
-   <img width="802" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/d40e7afa-2218-40e3-96b0-52ceec9d0620">
+   4. Then you will get a notification about role was created.
+   <img width="763" alt="Screenshot 2024-02-13 at 1 26 41 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/26cfcf00-996b-4537-a3e6-05962476c9c3">
+
+   5. Click "Create notebook instance".
+   <img width="806" alt="Screenshot 2024-02-13 at 1 37 29 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/8c8d6721-e6de-4eff-8da2-23ad7dbf8924">
+
+   6. You will get a notification about "Success! Your notebook instance is being created."
+   <img width="997" alt="Screenshot 2024-02-13 at 1 38 13 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/46a5fa67-f367-469b-aedd-3637ee76a19b">
 
    
    5. Use default VPC, subnet w/ auto-assign public IP enabled, and also enable "Auto-assign public IP".
@@ -37,64 +45,10 @@
       
       2. check "Allow HTTP traffic from the internet".
    <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/e8319480-fc87-4f8a-af4a-11fa9527c6ce">
-
    
-   7. Keep storage as 8GB w/ gp3.
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/a8c80fdf-d184-479e-a3b9-e22f636db6ab">
-
-   
-   8. Expand "Advanced details" and scroll down to "User data".
-      
-      1. Copy and paste the following script for user data.
-         
-         ```shell
-         #!/bin/bash
-         yum update -y
-         yum install -y httpd.x86_64
-         systemctl start httpd.service
-         systemctl enable httpd.service
-         echo "Welcome to AWS Training!!" > /var/www/html/index.html
-         ```
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/788db297-cb41-487a-b7d4-f80c32af8298">
-
-   
-   9. Review Summary.
-   <img width="339" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/c9f91fa9-d8fd-4bd5-8452-fe1303818444">
-
-   
-   10. Click "Launch instace" botton.
-   
-   11. Click the instance link from the message as below:
-       
-       E.g. Successfully initiated launch of instance (i-0c0e040fded860c1b)
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/c47e8bfd-6a86-491e-85a0-afe3706220d6">
-
-   
-   12. Copy "Public IPv4 address" of the instance and paste to the browser.
-
-       Make sure you connect the web server w/ HTTP (___NOT HTTPS___) protocol. (E.g. [http://a.b.c.d](http://a.b.c.d))
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/21bfdc2d-642b-46d5-beca-af79c02ed6fa">
-
-   
-   13. Verify if you could see the wording from httpd server.
-   
-   14. Screenshot the EC2 console w/ your id and public ip.
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/ccaecfca-5bb8-4258-9cd3-46823b0dc510">
-
-   
-   15. Screenshot the web page w/ "Welcom to AWS Training!!".
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/4f25681e-46ef-48d5-9c0f-66d2c1b24874">
-
-   
-   16. Terminate the EC2 instance.
+   16. Terminate the SageMaker notebook instance.
    <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/bde64ddf-da37-40f6-89af-8bfb9e7b515c">
 
-   
-   17. Delete the security group you created.
-       
-       E.g. launch-wizard-1
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/20ee5f27-691d-4136-99f2-b301af7be287">
 
-
-7. Email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
+8. Email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
 
