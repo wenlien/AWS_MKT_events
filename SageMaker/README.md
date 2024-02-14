@@ -36,19 +36,34 @@
    6. You will get a notification about "Success! Your notebook instance is being created."
    <img width="997" alt="Screenshot 2024-02-13 at 1 38 13 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/46a5fa67-f367-469b-aedd-3637ee76a19b">
 
+   7. Launch Jupyter notebook UI by clicking the link of "Open Jupyter".
+   <img width="996" alt="Screenshot 2024-02-13 at 1 01 24 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/d736f031-228b-40e0-8924-9a08fb73a196">
+
+   8. Download notebook file and data from github.
+      
+      * [AWS_MKT_Events_SageMaker.ipynb](https://github.com/wenlien/AWS_MKT_events/blob/main/SageMaker/AWS_MKT_Events_SageMaker.ipynb)
    
-   5. Use default VPC, subnet w/ auto-assign public IP enabled, and also enable "Auto-assign public IP".
-      
-   6. Create security group.
-      
-      1. uncheck "Allow SSH traffic from".
-      
-      2. check "Allow HTTP traffic from the internet".
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/e8319480-fc87-4f8a-af4a-11fa9527c6ce">
+      * [students.csv](https://github.com/wenlien/AWS_MKT_events/blob/main/SageMaker/students.csv)
    
-   16. Terminate the SageMaker notebook instance.
-   <img width="800" alt="image" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/bde64ddf-da37-40f6-89af-8bfb9e7b515c">
+   9. Upload notebook file and data to SageMaker notebook instance by clicking "Upload" button at the up right of the page.
+   
+   <img width="1267" alt="Screenshot 2024-02-14 at 8 10 30 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/d4d10855-1acf-436a-b96c-9baf4b368866">
+
+   <img width="1278" alt="Screenshot 2024-02-14 at 8 13 57 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/1466c610-aeac-4b17-9974-4f3027329be5">
+
+   <img width="1275" alt="Screenshot 2024-02-14 at 8 14 19 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/95bf6b06-5956-41cf-a8b5-efd0213b0d51">
+
+   10. Click "AWS_MKT_Events_SageMaker.ipynb" to open the script.
+
+   <img width="1278" alt="Screenshot 2024-02-14 at 8 16 04 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/0235f7f6-8fc2-4197-a165-b13e0160f805">
+
+   11. Make sure the current kernel of the notebook is "conda_python3" or change the kernel by clicking "Kernel" -> "Change kernel" -> "conda_python3"
+
+   <img width="1274" alt="Screenshot 2024-02-14 at 8 18 27 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/4f75d955-7723-4132-8367-b6e4204ac330">
+
+   19. Terminate the SageMaker notebook instance.
+   
 
 
-8. Email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
+9. Email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
 
