@@ -55,14 +55,29 @@
 
    10. Click "AWS_MKT_Events_SageMaker.ipynb" to open the script.
 
-   <img width="1278" alt="Screenshot 2024-02-14 at 8 16 04 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/0235f7f6-8fc2-4197-a165-b13e0160f805">
+   <img width="1277" alt="Screenshot 2024-02-14 at 10 43 22 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/bae3df8d-437f-4696-bfdd-0abbbb233c34">
 
    11. Make sure the current kernel of the notebook is "conda_python3" or change the kernel by clicking "Kernel" -> "Change kernel" -> "conda_python3"
 
-   <img width="1274" alt="Screenshot 2024-02-14 at 8 18 27 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/4f75d955-7723-4132-8367-b6e4204ac330">
+   <img width="1278" alt="Screenshot 2024-02-14 at 10 44 07 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/bb672341-0c3b-490a-856a-6bb8f4a9522b">
 
-   19. Terminate the SageMaker notebook instance.
+   12. Run each cell and get the result.
+
+   13. Take two screenshots for your environment.
+       
+      * Click your notebook instance, and screenshot the detail info of your server and also your account.
+   <img width="1278" alt="Screenshot 2024-02-14 at 10 56 43 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/36f356d8-64cc-4929-85b4-869a20a1e91b">
+
+      * Screenshot the last cell (bar chart) output of notebook.
+   <img width="1278" alt="Screenshot 2024-02-14 at 10 54 11 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/19197554-b271-4a48-a6de-0c32a197f784">
+
+   14. Stop the SageMaker notebook instance.
+
+   <img width="1280" alt="Screenshot 2024-02-14 at 11 03 08 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/4a35d9d9-ae97-4c29-8083-299ebe69d059">
+
+   15. Terminate the SageMaker notebook instance after it stopped.
    
+   <img width="1280" alt="Screenshot 2024-02-14 at 11 06 11 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/3e78beda-d8cf-488b-8fe4-be51fcbbc0aa">
 
 
 9. Email two screenshots to [aws_tnc@digitimes.com](mailto:aws_tnc@digitimes.com)
