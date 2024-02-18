@@ -85,5 +85,5 @@
   <img width="1280" alt="Screenshot 2024-02-16 at 12 11 32 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/23ddb38d-cec6-440d-8093-696e26e7afd8">
 
 16. Email your screenshots to aws_tnc@digitimes.com
-  <img width="503" alt="Screenshot 2024-02-19 at 2 05 50 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/17936e9d-b3d5-4232-8569-7c9ea96bc11e">
-  <img width="517" alt="Screenshot 2024-02-19 at 2 06 09 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/0bd4dbad-f743-4e90-a4d9-6d08fb1c77f3">
+<img width="503" alt="Screenshot 2024-02-19 at 2 05 50 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/17936e9d-b3d5-4232-8569-7c9ea96bc11e">
+<img width="517" alt="Screenshot 2024-02-19 at 2 06 09 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/0bd4dbad-f743-4e90-a4d9-6d08fb1c77f3">
