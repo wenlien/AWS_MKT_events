@@ -60,20 +60,22 @@
     <img width="1277" alt="Screenshot 2024-02-19 at 1 31 41 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/2867ecb3-c80f-41f9-b084-3a9ed7e0ac6e">
     * In "Card1" of Card group, type "Room type" in Title field, and expend "Buttons".
     <img width="1278" alt="Screenshot 2024-02-19 at 1 36 42 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/2cee1fa9-0b80-43cd-beae-fc714f7c001a">
-    * Click "Add button" and type "Queen" in title field, "queen" in value field.
-    * Click "Add button" and type "King" in title field, "king" in value field.
-    * Click "Add button" and type "Deluxe" in title field, "deluxe" in value field.
+    * Add 3 buttons in "Card 1".
+
+      * Click "Add button" and type "Queen" in title field, "queen" in value field.
+      * Click "Add button" and type "King" in title field, "king" in value field.
+      * Click "Add button" and type "Deluxe" in title field, "deluxe" in value field.
     <img width="1272" alt="Screenshot 2024-02-19 at 1 40 32 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/9d1a8e65-3e5a-4d35-88b1-6eee85c5a9d6">
     * Click "Update prompts", click "Update slot", then click "Save intent".
     <img width="1278" alt="Screenshot 2024-02-19 at 1 41 48 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/865ebbde-4f9c-4ae3-8b48-d118fdd2a50f">
     <img width="1278" alt="Screenshot 2024-02-19 at 1 45 42 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/7766dc3a-d4d9-4e96-ab79-6dd6cf497303">
   * Click "Build" button on top left of the page, and click "Test" after build success.
-  <img width="314" alt="Screenshot 2024-02-19 at 1 54 35 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/2ac1cc19-1316-4a5f-a9ed-cc1fbc738216">
-  <img width="316" alt="Screenshot 2024-02-19 at 1 55 00 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/70156abb-b81e-41f8-b49e-70e75090ff46">
-  <img width="315" alt="Screenshot 2024-02-19 at 1 55 24 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/5ab3351c-87e1-4a86-be72-84694d7689d5">
-  <img width="314" alt="Screenshot 2024-02-19 at 1 55 37 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/e4dcbe6a-d606-41ec-aa45-f8b0f2bb3a28">
+    <img width="314" alt="Screenshot 2024-02-19 at 1 54 35 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/2ac1cc19-1316-4a5f-a9ed-cc1fbc738216">
+    <img width="316" alt="Screenshot 2024-02-19 at 1 55 00 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/70156abb-b81e-41f8-b49e-70e75090ff46">
+    <img width="315" alt="Screenshot 2024-02-19 at 1 55 24 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/5ab3351c-87e1-4a86-be72-84694d7689d5">
+    <img width="314" alt="Screenshot 2024-02-19 at 1 55 37 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/e4dcbe6a-d606-41ec-aa45-f8b0f2bb3a28">
 
-14. Screenshot your full dialogue with bot (like above) and also your bot detail information (with your account info).
+14. Screenshot your full dialogue with bot (with customized, like above) and also your bot detail information (with your account info, like below).
   <img width="1280" alt="Screenshot 2024-02-16 at 12 07 25 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/d74f3d2e-15ca-4163-835a-eee9da911100">
 
 15. Back to bot page and delete your bot.
