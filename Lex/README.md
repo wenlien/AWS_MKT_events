@@ -70,6 +70,7 @@
     <img width="1278" alt="Screenshot 2024-02-19 at 1 41 48 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/865ebbde-4f9c-4ae3-8b48-d118fdd2a50f">
     <img width="1278" alt="Screenshot 2024-02-19 at 1 45 42 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/7766dc3a-d4d9-4e96-ab79-6dd6cf497303">
   * Click "Build" button on top left of the page, and click "Test" after build success.
+
     <img width="314" alt="Screenshot 2024-02-19 at 1 54 35 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/2ac1cc19-1316-4a5f-a9ed-cc1fbc738216">
     <img width="316" alt="Screenshot 2024-02-19 at 1 55 00 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/70156abb-b81e-41f8-b49e-70e75090ff46">
     <img width="315" alt="Screenshot 2024-02-19 at 1 55 24 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/5ab3351c-87e1-4a86-be72-84694d7689d5">
