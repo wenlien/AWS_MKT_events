@@ -66,7 +66,7 @@
    13. Take two screenshots for your environment.
        
       * Click your notebook instance, and screenshot the detail info of your server and also your account.
-   <img width="1278" alt="Screenshot 2024-02-14 at 10 56 43 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/36f356d8-64cc-4929-85b4-869a20a1e91b">
+   <img width="1281" alt="3_Screenshot 2024-02-27 at 5 36 39 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/eb3a1c7e-4c5f-4d78-9340-145d1912ffc2">
 
       * Screenshot the last cell (bar chart) output of notebook.
    <img width="1278" alt="Screenshot 2024-02-14 at 10 54 11 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/19197554-b271-4a48-a6de-0c32a197f784">
