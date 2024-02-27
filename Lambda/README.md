@@ -1,10 +1,22 @@
+1. Login to AWS Lambda console.
 <img width="1281" alt="Screenshot 2024-02-27 at 12 00 23 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/010b2fd0-951d-48c0-9430-df96971b381a">
+
+2. Select "Use a blueprint".
 <img width="1282" alt="Screenshot 2024-02-27 at 12 01 05 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/9e6c5f6c-9fe1-4eff-8413-2ff2ef9d79d1">
+
+3. Expend drop down list of Blueprint name, and select "Getting started with Lambda HTTP".
 <img width="826" alt="Screenshot 2024-02-27 at 4 16 05 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/3ce2a82e-41b3-4cf9-a4ec-558b3afea77f">
+
+4. Give Lambda function a name, e.g. "AWS-Training".
 <img width="1137" alt="Screenshot 2024-02-27 at 4 16 53 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/e5ae1d26-d8fe-44f8-86cc-bba432f07e28">
 
+5. Review the source code of Lambda function.
 <img width="1144" alt="Screenshot 2024-02-27 at 4 17 15 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/67faa44a-71ef-4213-9bc9-c77a4c943398">
-<img width="1140" alt="Screenshot 2024-02-27 at 4 19 22 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/33f0cc0e-62d1-48d4-baf0-8ad6d60bd065">
+
+6. Check "Acknowledgement" for enable open policy for Lambda function URL, and click "Create function" button.
+<img width="1211" alt="Screenshot 2024-02-27 at 4 33 27 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/08164ae4-56ad-45a8-800d-4715d194c95b">
+
+7. Wait for few seconds and you will be noticed that Lambda function has been created successfully.
 <img width="1284" alt="Screenshot 2024-02-27 at 4 20 01 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/5c3c40fa-0b82-4d73-a753-da1bb423f91a">
 
 <img width="1282" alt="Screenshot 2024-02-27 at 4 20 27 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/20f2c1a8-ef64-4ec4-944d-fd457d1a0472">
