@@ -36,11 +36,16 @@
 
 13. To avoid addtional billing, we're going to delete the Lambda fuction.  But, before you delete the Lambda function, you need to take two screenshot first.
 
+13-1. Screenshot with your lambda information with "account" and "public domain name".
+<img width="1281" alt="1_308105151-e2417786-5668-4b9f-988d-9d895c4cb511" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/34f9fef8-53df-4bf9-9485-89108455410d">
+13-2. Screenshot you page with "Hello, AWS Training!" and "public domain name".
+<img width="1278" alt="1_Screenshot 2024-02-27 at 5 20 20 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/849c0bd7-3f15-467a-9c45-f9ff2efbe875">
+
 14. Search Lambda function by input filter "AWS-Training".
 <img width="1281" alt="Screenshot 2024-02-27 at 4 25 07 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/0d1d9f85-3b3c-44b6-a2dd-799503364927">
 
 15. Check Lambda function "AWS-Training", and select "Delete" from "Action" drop down list.
-<img width="1281" alt="Screenshot 2024-02-27 at 4 25 21 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/38c467c1-addb-40c7-b688-2526af95c37b">
+<img width="1281" alt="308091560-38c467c1-addb-40c7-b688-2526af95c37b" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/3cc34251-2264-4299-9264-fbf35f150a61">
 
 16. Type "delete" to confirm deletion, and clikc "Delete" button.
 <img width="743" alt="Screenshot 2024-02-27 at 4 25 35 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/fe847400-1038-41a8-9597-7ee2add6551b">
