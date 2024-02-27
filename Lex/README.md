@@ -77,7 +77,7 @@
     <img width="314" alt="Screenshot 2024-02-19 at 1 55 37 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/e4dcbe6a-d606-41ec-aa45-f8b0f2bb3a28">
 
 14. Screenshot your full dialogue with bot (with customized, like above) and also your bot detail information (with your account info, like below).
-  <img width="1280" alt="Screenshot 2024-02-16 at 12 07 25 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/d74f3d2e-15ca-4163-835a-eee9da911100">
+  <img width="1279" alt="2_Screenshot 2024-02-27 at 5 28 08 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/ea1c42df-528e-46f7-9c65-f330262f9ccb">
 
 15. Back to bot page and delete your bot.
   <img width="1281" alt="Screenshot 2024-02-16 at 12 08 55 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/2e9f4e65-94d1-43cb-86d1-147d61d4d927">
@@ -86,4 +86,4 @@
 
 16. Email your screenshots to aws_tnc@digitimes.com
 <img width="503" alt="Screenshot 2024-02-19 at 2 05 50 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/17936e9d-b3d5-4232-8569-7c9ea96bc11e">
-<img width="517" alt="Screenshot 2024-02-19 at 2 06 09 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/0bd4dbad-f743-4e90-a4d9-6d08fb1c77f3">
+<img width="1279" alt="2_Screenshot 2024-02-27 at 5 28 08 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/ea1c42df-528e-46f7-9c65-f330262f9ccb">
