@@ -52,3 +52,5 @@
 
 17. Verify you Lambda function has been deleted.
 <img width="1281" alt="Screenshot 2024-02-27 at 4 25 56 PM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/130464fa-cf53-4bfe-bb23-79bf75dca1d9">
+
+18. Email two screenshots to aws_tnc@digitimes.com
