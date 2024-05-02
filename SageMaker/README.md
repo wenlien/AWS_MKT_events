@@ -21,7 +21,7 @@
       E.g. AWS-Training
    <img width="803" alt="Screenshot 2024-02-13 at 1 21 46 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/2d8ce196-4c52-4ba6-a50e-aac0d4e2d1ac">
    
-   2. In permissions and encryption block, expend the "IAM role" and select "create a new role".
+   2. In permissions and encryption block, expend the "IAM role" and select "Create a new role".
    <img width="803" alt="Screenshot 2024-02-13 at 1 27 46 AM" src="https://github.com/wenlien/AWS_MKT_events/assets/348015/ad6dcfe1-8d0f-442b-8ddc-9501b4c62286">
 
    3. Click "Create Role".
